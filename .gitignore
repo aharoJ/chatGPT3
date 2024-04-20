@@ -17,15 +17,11 @@ school/
 # Ignore .DS_Store files
 .DS_Store
 
-# Ignore CSS
-*.css
-
 # build stuff
 build/
 
 # node modules stuff
 node_modules/
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
